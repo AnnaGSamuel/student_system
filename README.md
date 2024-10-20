@@ -1,0 +1,3 @@
+**Student Management System**
+
+This is a simple web-based application designed to manage student records efficiently which uses HTML and CSS for structuring and styling the web pages. Built using PHP and MySQL, the system allows users to perform basic CRUD (Create, Read, Update, Delete) operations. Users can easily add new student details, view the information in a table format, edit existing records, and delete entries when necessary. Additionally, the system includes a search functionality, allowing users to filter student records by name, making it easier to find specific data. The application is designed with ease of use in mind, featuring a clean, responsive interface that enhances user experience.
